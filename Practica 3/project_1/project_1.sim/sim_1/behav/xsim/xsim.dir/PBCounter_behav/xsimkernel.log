@@ -1,7 +1,0 @@
-Running: xsim.dir/PBCounter_behav/xsimk -simmode gui -wdb PBCounter_behav.wdb -simrunnum 0 -socket 58801
-Design successfully loaded
-Design Loading Memory Usage: 29124 KB (Peak: 29720 KB)
-Design Loading CPU Usage: 20 ms
-Simulation completed
-Simulation Memory Usage: 119060 KB (Peak: 168392 KB)
-Simulation CPU Usage: 40 ms
