@@ -1,8 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/HOME/Desktop/Digital lab2/funcion/funcion.srcs/sources_1/new/funcion.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'funcion'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/HOME/Desktop/Digital lab2/funcion/funcion.srcs/sources_1/new/inv.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'Inv'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/HOME/Desktop/Digital lab2/funcion/funcion.srcs/sources_1/new/nor2.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'nor2'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/HOME/Desktop/Digital lab2/funcion/funcion.srcs/sim_1/new/funcion_tb.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'funcion_tb'
